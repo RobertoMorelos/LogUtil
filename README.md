@@ -58,7 +58,7 @@ public class MyApp extends Application {
 ```
 ##### Step 2. Use it anywhere you want!
 ```
-LogU.v(TAG, "This log is showing only in debug mode!");
+LogU.v(TAG, "You are seeing this log only in debug mode!");
 ```
 
 # License
